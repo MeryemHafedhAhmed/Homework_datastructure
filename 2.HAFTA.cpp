@@ -1,7 +1,7 @@
 //1 Algo
 for (i = 1; i <= n; i++) {
     print("Hello World");
-}//O(n) 
+}// O(n) 
 
 
 
@@ -10,7 +10,7 @@ for (i = 1; i <= n; i++) {
     for (j = 1; j <= n; j++) {
         print("Hello World");
     }
-}//O(n²)
+}//O(nÂ²)
 
 
 
@@ -28,7 +28,7 @@ for (i = 1; i < n; i = i * 5) {
 
 
 //5 Algo
-for (i = 1; i < n³; i = i * 5) {
+for (i = 1; i < nÂ³; i = i * 5) {
     print("Hello World");
 }//O(log n)
 
@@ -47,3 +47,4 @@ while (k <= n) {
     i = i + 1;
     k = k + i;
 }//O(n^1/2)
+
